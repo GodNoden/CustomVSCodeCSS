@@ -22,12 +22,12 @@
 .monaco-list.list_id_1 .monaco-list-rows,
 .monaco-pane-view .pane>.pane-body,
 .monaco-breadcrumbs{
-    background-color: #fddef843!important;
+    background-color: #24142e!important;
 }
 .monaco-editor .margin,
 .monaco-list.list_id_5 .monaco-list-rows,
 .monaco-editor, .monaco-editor-background {
-    background-color: #fdd1ff45!important;
+    background-color: #2a222b!important;
 }
 .mtk11 {
     color: re#ec61bc;
@@ -36,10 +36,10 @@
 .monaco-workbench .part.activitybar,
 .monaco-workbench .part>.composite.title,
 .monaco-pane-view .pane>.pane-header{
-    background-color: #eb9ff590!important;
+    background-color: #24142e!important;
 }
 .monaco-workbench .part.titlebar{
-    background-color: #c39aff90!important;
+    background-color: #2a222b!important;
     
 } 
 .monaco-editor .detected-link, .monaco-editor .detected-link-active {
