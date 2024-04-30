@@ -1,0 +1,54 @@
+.monaco-workbench .part.editor>.content .editor-group-container>.title .tabs-container>.tab.active.tab-border-top>.tab-border-top-container {
+    background-image: linear-gradient(to right, #11998F, #D13ABD, #ea6464);
+    height: 3px;
+}
+.mtk10 {
+    background-image: linear-gradient(45deg, #FF61D2, #FE908F);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: transparent;
+    font-weight: 700;
+}
+.mtk5 {
+    background-image: linear-gradient(45deg, #117c99, #38e6ef);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: transparent;
+    font-weight: 700;
+}
+.mtk8 {
+    color: #ce62ef;
+}
+.monaco-list.list_id_1 .monaco-list-rows,
+.monaco-pane-view .pane>.pane-body,
+.monaco-breadcrumbs{
+    background-color: #fddef843!important;
+}
+.monaco-editor .margin,
+.monaco-list.list_id_5 .monaco-list-rows,
+.monaco-editor, .monaco-editor-background {
+    background-color: #fdd1ff45!important;
+}
+.mtk11 {
+    color: re#ec61bc;
+}
+.monaco-workbench .part.editor>.content .editor-group-container>.title,
+.monaco-workbench .part.activitybar,
+.monaco-workbench .part>.composite.title,
+.monaco-pane-view .pane>.pane-header{
+    background-color: #eb9ff590!important;
+}
+.monaco-workbench .part.titlebar{
+    background-color: #c39aff90!important;
+    
+} 
+.monaco-editor .detected-link, .monaco-editor .detected-link-active {
+    text-decoration: none;
+    border-bottom: 2px dashed #62b9ef;
+}
+.mtk9 {
+    background-image: linear-gradient(45deg, #05a6f7, #60c2ec);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: transparent;
+}
